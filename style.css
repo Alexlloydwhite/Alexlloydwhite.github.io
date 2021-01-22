@@ -1,9 +1,11 @@
 
+
+
 body{
   background-image: url("https://bhf-cdn.azureedge.net/bhf-blob-prod/0008208_albin-cream-linen-texture_360.jpeg");
   color: black;
   font-family: lato;
-  margin:10% 20% 
+  margin: 0% 20%;
 }
 
 .line-header{
@@ -23,7 +25,8 @@ body{
 div {
   width: 800px;
   padding: 0px;
- }
+
+}
 
 a:link {
   text-decoration: none;
