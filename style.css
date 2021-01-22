@@ -1,16 +1,18 @@
+
 body{
-  background-color: #444444;
-  Color: #dddddd;
-  font-family: avenir, helvetica, sans-serif;
+  background-image: url("https://bhf-cdn.azureedge.net/bhf-blob-prod/0008208_albin-cream-linen-texture_360.jpeg");
+  color: black;
+  font-family: garamond, serif;
   margin:10% 20% 
 }
 
-.exp-header{
+.line-header{
   text-align: center;
-  text-transform:uppercase;
   border-top: 1px solid #dddddd;
-  border-bottom: 1px solid #dddddd;
-  background-color: rgba(0,0,0, 0.1)
 }
 
+.name-header{
+  text-align: center;
+  text-transform: Capitalize;
+}
 
