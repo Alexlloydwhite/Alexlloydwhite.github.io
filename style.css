@@ -12,7 +12,11 @@ body{
 }
 
 .name-header{
-  text-align: center;
+  text-align:center;
+}
+
+.address-header{
+  text-align: left;
   text-transform: Capitalize;
 }
 
